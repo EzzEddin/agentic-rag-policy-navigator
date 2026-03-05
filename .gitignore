@@ -19,10 +19,10 @@ env/
 # Data / state
 backend/data/index_state.json
 # Raw dataset files (download via Kaggle – see backend/data/README.txt)
-backend/data/*.csv
-backend/data/*.pdf
-backend/data/*.zip
-backend/data/*.jsonl
+# backend/data/*.csv
+# backend/data/*.pdf
+# backend/data/*.zip
+# backend/data/*.jsonl
 
 # Node
 node_modules/
