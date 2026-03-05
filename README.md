@@ -64,11 +64,8 @@ This project demonstrates how to:
 | # | Source | Type | Content |
 |---|--------|------|---------|
 | 1 | [GDPR Articles – Kaggle](https://www.kaggle.com/datasets/josoriopt/gdpr-articles) | **Kaggle CSV dataset** | Full text of all 99 GDPR articles + recitals (data privacy regulation) |
-| 2 | [WHO International Health Regulations](https://www.who.int/news-room/questions-and-answers/item/what-are-the-international-health-regulations-and-emergency-committee) | **Website scrape** | WHO IHR Q&A — international public health compliance policy |
-| 3 | [WHO IHR topic overview](https://www.who.int/health-topics/international-health-regulations) | Website scrape | WHO IHR overview page |
-| 4 | [EPA Clean Air Act](https://www.epa.gov/laws-regulations/summary-clean-air-act) | Website scrape | US environmental regulation summary |
-| 5 | [OSHA Act full text](https://www.osha.gov/laws-regs/oshact/completeoshact) | Website scrape | Occupational Safety and Health Act |
-
+| 2 | [WHO IHR topic overview](https://www.who.int/health-topics/international-health-regulations) | Website scrape | WHO IHR overview page |
+| 3 | [EPA Clean Air Act](https://www.epa.gov/laws-regulations/summary-clean-air-act) | Website scrape | US environmental regulation summary |
 ---
 
 ## Prerequisites
