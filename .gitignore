@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.so
+venv/
+.venv/
+env/
+.env
+*.env
+
+# Data / state
+backend/data/index_state.json
+# Raw dataset files (download via Kaggle – see backend/data/README.txt)
+backend/data/*.csv
+backend/data/*.pdf
+backend/data/*.zip
+backend/data/*.jsonl
+
+# Node
+node_modules/
+dist/
+frontend/dist/
+.npm
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
