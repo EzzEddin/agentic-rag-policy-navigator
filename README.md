@@ -5,6 +5,8 @@ insights from complex government regulations, compliance policies, and public
 health guidelines. Built with **FastAPI**, **React + TypeScript + Vite**, and
 the **aiXplain v2 SDK**.
 
+![Policy Navigator Demo](policy_navigator_chatbot_demo.png)
+
 ---
 
 ## Purpose & Learning Objectives
